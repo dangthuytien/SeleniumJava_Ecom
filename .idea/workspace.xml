@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6f956333-1d3b-48b1-8806-0a187240ee94" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exports/logs/app-properties.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thuytien/drivers/DriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thuytien/helpers/CaptureHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thuytien/helpers/ExcelHelpers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thuytien/helpers/PropertiesHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thuytien/helpers/SystemHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thuytien/keywords/WebUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/thuytien/utils/LogUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thuytien/DataProvider/DataProviderFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thuytien/Listener/TestListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thuytien/common/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thuytien/phongthuythienan/Pages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thuytien/phongthuythienan/Pages/CartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thuytien/phongthuythienan/Pages/CategoryPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thuytien/phongthuythienan/Pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thuytien/phongthuythienan/Pages/RegisterPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thuytien/phongthuythienan/Pages/SearchPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thuytien/phongthuythienan/Pages/WishlistPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thuytien/phongthuythienan/Testcase/CategoryTestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thuytien/phongthuythienan/Testcase/LoginTestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thuytien/phongthuythienan/Testcase/MiniCartTestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thuytien/phongthuythienan/Testcase/RegisterTestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thuytien/phongthuythienan/Testcase/SearchTestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thuytien/phongthuythienan/Testcase/WishlistTestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/configs/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/suites/Login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/suites/Register.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testdata/logindata30_6.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testdata/registerdata30_6.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testdata/searchdata.xlsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2zD27TldHEXlhMRBWiM9n0crj9V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.C:/Users/Yuthnei/Documents/Work/phongthuythienan/src/test/resources/suites/Login.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/Yuthnei/Documents/Work/phongthuythienan/src/test/resources/suites/Register.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CategoryTestCase.TC03_filterByPriceSliderXToY.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CategoryTestCase.TC07_filterByPriceSliderXToY.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CategoryTestCase.TC11_verifySortPriceAscending.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CategoryTestCase.TC11_verifySortPriceDescending.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CategoryTestCase.TC12_verifySortPriceDescending.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CategoryTestCase.TC13_verifySortNameAscending.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CategoryTestCase.TC14_verifySortNameDescending.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CategoryTestCase.TC16_verifyFilterPriceAndSortByNameAscending.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CategoryTestCase.verifySortPriceAscending.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.D:/Work/phongthuythienan/src/test/resources/suites/Login.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTestCase.TC01_loginSuccessWithValidAccount.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.LoginTestCase.TC08_toggleShowHidePassword.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.MiniCartTestCase.TC01_addProductToCartFromPopup.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.MiniCartTestCase.TC02_addMultipleProductsToCart.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.RegisterTestCase.TC05_testRegisterWithDuplicateEmail.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SearchTestCase.TC04_clickViewAllResults.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SearchTestCase.TC06_searchPopupWithValidKeyword.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SearchTestCase.TC07_comparePopupAndSearchResultPage.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SearchTestCase.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.WishlistTestCase.TC01_addToWishlistWithoutLogin.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.WishlistTestCase.TC02_addMultipleProductsToWishlistWithoutLogin.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.WishlistTestCase.TC03_verifyLastAddedProductIsFirstInWishlist.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.WishlistTestCase.TC04_addToWishlistThenLogin.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.WishlistTestCase.TC05_addMultiToWishlistWithoutLogin.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.WishlistTestCase.TC06_mergeWishlistAfterLogin.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.WishlistTestCase.TC07_removeProductFromWishlist.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.WishlistTestCase.TC08_removeFromWishlistByHeartIconAnyPosition.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.WishlistTestCase.TC10_addMultipleThenRemoveOneFromCategoryPage.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.WishlistTestCase.TC11_addMultipleAndRemoveOneFromWishlist.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.WishlistTestCase.TC11_clearAllWishlistItems.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.WishlistTestCase.Test.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.suites.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Work/phongthuythienan&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Yuthnei\Documents\Work\phongthuythienan\src\test\resources" />
+      <recent name="C:\Users\Yuthnei\Documents\Work\phongthuythienan\src\test\java\com\thuytien" />
+      <recent name="C:\Users\Yuthnei\Documents\Work\phongthuythienan\src\test\java" />
+      <recent name="C:\Users\Yuthnei\Documents\Work\phongthuythienan\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.thuytien.Listener" />
+      <recent name="com.thuytien.helpers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.D:/Work/phongthuythienan/src/test/resources/suites/Login.xml">
+    <configuration name="D:/Work/phongthuythienan/src/test/resources/suites/Login.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="phongthuythienan" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/suites/Login.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MiniCartTestCase.TC01_addProductToCartFromPopup" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="phongthuythienan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thuytien.phongthuythienan.Testcase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thuytien.phongthuythienan.Testcase" />
+      <option name="MAIN_CLASS_NAME" value="com.thuytien.phongthuythienan.Testcase.MiniCartTestCase" />
+      <option name="METHOD_NAME" value="TC01_addProductToCartFromPopup" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MiniCartTestCase.TC02_addMultipleProductsToCart" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="phongthuythienan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thuytien.phongthuythienan.Testcase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thuytien.phongthuythienan.Testcase" />
+      <option name="MAIN_CLASS_NAME" value="com.thuytien.phongthuythienan.Testcase.MiniCartTestCase" />
+      <option name="METHOD_NAME" value="TC02_addMultipleProductsToCart" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WishlistTestCase.TC11_clearAllWishlistItems" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="phongthuythienan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thuytien.phongthuythienan.Testcase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thuytien.phongthuythienan.Testcase" />
+      <option name="MAIN_CLASS_NAME" value="com.thuytien.phongthuythienan.Testcase.WishlistTestCase" />
+      <option name="METHOD_NAME" value="TC11_clearAllWishlistItems" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="suites" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="phongthuythienan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="suites.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="suites" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.D:/Work/phongthuythienan/src/test/resources/suites/Login.xml" />
+        <item itemvalue="TestNG.suites" />
+        <item itemvalue="TestNG.MiniCartTestCase.TC02_addMultipleProductsToCart" />
+        <item itemvalue="TestNG.MiniCartTestCase.TC01_addProductToCartFromPopup" />
+        <item itemvalue="TestNG.WishlistTestCase.TC11_clearAllWishlistItems" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f956333-1d3b-48b1-8806-0a187240ee94" name="Changes" comment="" />
+      <created>1751251157423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751251157423</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/thuytien/phongthuythienan/Testcase/CategoryTestCase.java</url>
+          <line>25</line>
+          <properties class="com.thuytien.phongthuythienan.Testcase.CategoryTestCase" method="TC03_filterByPriceSliderXToY">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/thuytien/phongthuythienan/Testcase/WishlistTestCase.java</url>
+          <line>326</line>
+          <properties class="com.thuytien.phongthuythienan.Testcase.WishlistTestCase" method="TC10_addMultipleThenRemoveOneFromCategoryPage">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
