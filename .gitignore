@@ -13,6 +13,9 @@ target/
 *.iml
 *.ipr
 
+# Ignore exports folder (log, report,…)
+exports/
+
 ### Eclipse ###
 .apt_generated
 .classpath
