@@ -35,7 +35,7 @@ captures/
 *.gif
 
 #data test#
-.xlxs
+testdata/
 
 ### NetBeans ###
 /nbproject/private/
